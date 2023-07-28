@@ -1,0 +1,7 @@
+.payment__body input {
+  width: 30%;
+  border: 1px solid var(--heading-color);
+  border-radius: 2rem;
+  padding: 10px;
+  margin: 5px;
+}

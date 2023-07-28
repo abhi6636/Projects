@@ -6,7 +6,7 @@ import Register from "../pages/Register";
 import Tours from "./../pages/Tours";
 import TourDetails from "./../pages/TourDetails";
 import SearchResultList from "./../pages/SearchResultList";
-import Payment from "../components/payment/Payment";
+import Payment from "../components/payment/DemoPayment";
 import ThankYou from "./../pages/ThankYou";
 const Routers = () => {
   return (
