@@ -1,0 +1,233 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="1879" viewBox="0 0 412 1879">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-mock-test);
+      }
+
+      .cls-15, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-6 {
+        stroke: #707070;
+      }
+
+      .cls-3, .cls-4, .cls-9 {
+        stroke: #000;
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 38px;
+      }
+
+      .cls-13, .cls-3, .cls-4, .cls-9 {
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-16, .cls-4 {
+        fill: #d6d6d6;
+      }
+
+      .cls-5 {
+        fill: #c4c4c4;
+      }
+
+      .cls-7 {
+        fill: #aad3d9;
+      }
+
+      .cls-12, .cls-8, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-9 {
+        font-size: 17px;
+      }
+
+      .cls-10, .cls-12, .cls-13 {
+        font-size: 12px;
+      }
+
+      .cls-10, .cls-12 {
+        font-family: SegoeUI-Light, Segoe UI;
+        font-weight: 300;
+      }
+
+      .cls-11 {
+        fill: #fc0;
+      }
+
+      .cls-14 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-mock-test">
+      <rect width="412" height="1879"/>
+    </clipPath>
+  </defs>
+  <g id="mock-test" class="cls-1">
+    <rect class="cls-16" width="412" height="1879"/>
+    <line id="Line_1" data-name="Line 1" class="cls-2" x2="597" transform="translate(-96.5 22.5)"/>
+    <text id="MOCK" class="cls-3" transform="translate(45 71)"><tspan x="0" y="0">MOCK</tspan></text>
+    <text id="TEST" class="cls-4" transform="translate(172 104)"><tspan x="0" y="0">TEST</tspan></text>
+    <path id="Path_4" data-name="Path 4" class="cls-2" d="M54,2V70" transform="translate(113 37)"/>
+    <rect id="Rectangle_63" data-name="Rectangle 63" class="cls-5" width="321" height="241" rx="21" transform="translate(45 174)"/>
+    <g id="Rectangle_74" data-name="Rectangle 74" class="cls-6" transform="translate(227 1734)">
+      <rect class="cls-14" width="140" height="50" rx="18"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="139" height="49" rx="17.5"/>
+    </g>
+    <rect id="Rectangle_22" data-name="Rectangle 22" class="cls-7" width="412" height="51" rx="18" transform="translate(1 1796)"/>
+    <g id="Icon_ionic-ios-home" data-name="Icon ionic-ios-home" transform="translate(65.626 1803.5)">
+      <path id="Path_1" data-name="Path 1" d="M18.176,7.32a.276.276,0,0,0-.352,0L6.855,16.095a.3.3,0,0,0-.105.218V32.484a.141.141,0,0,0,.141.141h7.594a.141.141,0,0,0,.141-.141V22.641a.141.141,0,0,1,.141-.141h6.469a.141.141,0,0,1,.141.141v9.844a.141.141,0,0,0,.141.141h7.594a.141.141,0,0,0,.141-.141V16.313a.284.284,0,0,0-.105-.218Z"/>
+      <path id="Path_2" data-name="Path 2" d="M32.252,14.358,18.963,3.713a1.543,1.543,0,0,0-1.927,0l-5.787,4.7V5.449a.141.141,0,0,0-.141-.141H6.891a.141.141,0,0,0-.141.141v6.483l-3,2.468a.984.984,0,0,0-.084,1.47.978.978,0,0,0,.7.288.991.991,0,0,0,.619-.218L17.909,5.534A.126.126,0,0,1,18,5.505a.17.17,0,0,1,.091.028L31.022,15.9a.991.991,0,0,0,.619.218,1,1,0,0,0,.991-1.041A1,1,0,0,0,32.252,14.358Z"/>
+    </g>
+    <path id="Icon_open-badge" data-name="Icon open-badge" d="M9,0a9,9,0,1,0,9,9A9.026,9.026,0,0,0,9,0ZM4.5,21.645V36L9,31.5,13.5,36V21.645A13.547,13.547,0,0,1,9,22.5,13.547,13.547,0,0,1,4.5,21.645Z" transform="translate(157 1804)"/>
+    <path id="Icon_awesome-user-alt" data-name="Icon awesome-user-alt" d="M18,20.25A10.125,10.125,0,1,0,7.875,10.125,10.128,10.128,0,0,0,18,20.25Zm9,2.25H23.126a12.24,12.24,0,0,1-10.252,0H9a9,9,0,0,0-9,9v1.125A3.376,3.376,0,0,0,3.375,36h29.25A3.376,3.376,0,0,0,36,32.625V31.5A9,9,0,0,0,27,22.5Z" transform="translate(308 1804)"/>
+    <path id="Icon_awesome-youtube" data-name="Icon awesome-youtube" d="M38.648,8.725a4.825,4.825,0,0,0-3.395-3.417c-2.995-.808-15-.808-15-.808s-12.008,0-15,.808A4.825,4.825,0,0,0,1.852,8.725c-.8,3.014-.8,9.3-.8,9.3s0,6.289.8,9.3a4.753,4.753,0,0,0,3.395,3.362c2.995.808,15,.808,15,.808s12.008,0,15-.808a4.753,4.753,0,0,0,3.395-3.362c.8-3.014.8-9.3.8-9.3s0-6.289-.8-9.3ZM16.323,23.737V12.318l10.036,5.71L16.323,23.737Z" transform="translate(225.875 1803.375)"/>
+    <rect id="Rectangle_22-2" data-name="Rectangle 22" width="412" height="51" rx="18" transform="translate(1 1796)"/>
+    <g id="Icon_ionic-ios-home-2" data-name="Icon ionic-ios-home" transform="translate(65.626 1803.5)">
+      <path id="Path_1-2" data-name="Path 1" class="cls-8" d="M18.176,7.32a.276.276,0,0,0-.352,0L6.855,16.095a.3.3,0,0,0-.105.218V32.484a.141.141,0,0,0,.141.141h7.594a.141.141,0,0,0,.141-.141V22.641a.141.141,0,0,1,.141-.141h6.469a.141.141,0,0,1,.141.141v9.844a.141.141,0,0,0,.141.141h7.594a.141.141,0,0,0,.141-.141V16.313a.284.284,0,0,0-.105-.218Z"/>
+      <path id="Path_2-2" data-name="Path 2" class="cls-8" d="M32.252,14.358,18.963,3.713a1.543,1.543,0,0,0-1.927,0l-5.787,4.7V5.449a.141.141,0,0,0-.141-.141H6.891a.141.141,0,0,0-.141.141v6.483l-3,2.468a.984.984,0,0,0-.084,1.47.978.978,0,0,0,.7.288.991.991,0,0,0,.619-.218L17.909,5.534A.126.126,0,0,1,18,5.505a.17.17,0,0,1,.091.028L31.022,15.9a.991.991,0,0,0,.619.218,1,1,0,0,0,.991-1.041A1,1,0,0,0,32.252,14.358Z"/>
+    </g>
+    <path id="Icon_open-badge-2" data-name="Icon open-badge" class="cls-8" d="M9,0a9,9,0,1,0,9,9A9.026,9.026,0,0,0,9,0ZM4.5,21.645V36L9,31.5,13.5,36V21.645A13.547,13.547,0,0,1,9,22.5,13.547,13.547,0,0,1,4.5,21.645Z" transform="translate(157 1804)"/>
+    <path id="Icon_awesome-user-alt-2" data-name="Icon awesome-user-alt" class="cls-8" d="M18,20.25A10.125,10.125,0,1,0,7.875,10.125,10.128,10.128,0,0,0,18,20.25Zm9,2.25H23.126a12.24,12.24,0,0,1-10.252,0H9a9,9,0,0,0-9,9v1.125A3.376,3.376,0,0,0,3.375,36h29.25A3.376,3.376,0,0,0,36,32.625V31.5A9,9,0,0,0,27,22.5Z" transform="translate(308 1804)"/>
+    <path id="Icon_awesome-youtube-2" data-name="Icon awesome-youtube" class="cls-8" d="M38.648,8.725a4.825,4.825,0,0,0-3.395-3.417c-2.995-.808-15-.808-15-.808s-12.008,0-15,.808A4.825,4.825,0,0,0,1.852,8.725c-.8,3.014-.8,9.3-.8,9.3s0,6.289.8,9.3a4.753,4.753,0,0,0,3.395,3.362c2.995.808,15,.808,15,.808s12.008,0,15-.808a4.753,4.753,0,0,0,3.395-3.362c.8-3.014.8-9.3.8-9.3s0-6.289-.8-9.3ZM16.323,23.737V12.318l10.036,5.71L16.323,23.737Z" transform="translate(225.875 1803.375)"/>
+    <text id="Submit" class="cls-9" transform="translate(268 1766)"><tspan x="0" y="0">Submit</tspan></text>
+    <text id="_Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua._Ut_enim_ad_minim_veniam_quis_nostrud_exercitation_ullamco_laboris_nisi_ut_aliquip_ex_ea_commodo_consequat._Duis_aute_irure_dolor_i" data-name="&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor i" class="cls-10" transform="translate(53.5 182.5)"><tspan x="0" y="13">&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed </tspan><tspan x="0" y="29">do eiusmod tempor incididunt ut labore et dolore magna </tspan><tspan x="0" y="45">aliqua. Ut enim ad minim veniam, quis nostrud exercitation </tspan><tspan x="0" y="61">ullamco laboris nisi ut aliquip ex ea commodo consequat. </tspan><tspan x="0" y="77">Duis aute irure dolor in reprehenderit in voluptate velit esse </tspan><tspan x="0" y="93">cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat </tspan><tspan x="0" y="109">cupidatat non proident, sunt in culpa qui officia deserunt </tspan><tspan x="0" y="125">mollit anim id est laborum.&quot;</tspan></text>
+    <g id="Rectangle_76" data-name="Rectangle 76" class="cls-6" transform="translate(55 315)">
+      <rect class="cls-14" width="147" height="41" rx="14"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="146" height="40" rx="13.5"/>
+    </g>
+    <g id="Rectangle_77" data-name="Rectangle 77" class="cls-6" transform="translate(55 365)">
+      <rect class="cls-14" width="147" height="41" rx="14"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="146" height="40" rx="13.5"/>
+    </g>
+    <rect id="Rectangle_78" data-name="Rectangle 78" class="cls-11" width="142" height="41" rx="14" transform="translate(215 315)"/>
+    <g id="Rectangle_79" data-name="Rectangle 79" class="cls-6" transform="translate(215 365)">
+      <rect class="cls-14" width="142" height="41" rx="14"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="141" height="40" rx="13.5"/>
+    </g>
+    <text id="option_1" data-name="option 1" class="cls-12" transform="translate(66 339)"><tspan x="0" y="0">option 1</tspan></text>
+    <text id="option_2" data-name="option 2" class="cls-10" transform="translate(226 338)"><tspan x="0" y="0">option 2</tspan></text>
+    <text id="option_4" data-name="option 4" class="cls-12" transform="translate(226 390)"><tspan x="0" y="0">option 4</tspan></text>
+    <text id="option_3" data-name="option 3" class="cls-12" transform="translate(66 389)"><tspan x="0" y="0">option 3</tspan></text>
+    <rect id="Rectangle_80" data-name="Rectangle 80" class="cls-5" width="321" height="241" rx="21" transform="translate(46 433)"/>
+    <text id="_Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua._Ut_enim_ad_minim_veniam_quis_nostrud_exercitation_ullamco_laboris_nisi_ut_aliquip_ex_ea_commodo_consequat._Duis_aute_irure_dolor_i-2" data-name="&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor i" class="cls-10" transform="translate(54.5 441.5)"><tspan x="0" y="13">&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed </tspan><tspan x="0" y="29">do eiusmod tempor incididunt ut labore et dolore magna </tspan><tspan x="0" y="45">aliqua. Ut enim ad minim veniam, quis nostrud exercitation </tspan><tspan x="0" y="61">ullamco laboris nisi ut aliquip ex ea commodo consequat. </tspan><tspan x="0" y="77">Duis aute irure dolor in reprehenderit in voluptate velit esse </tspan><tspan x="0" y="93">cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat </tspan><tspan x="0" y="109">cupidatat non proident, sunt in culpa qui officia deserunt </tspan><tspan x="0" y="125">mollit anim id est laborum.&quot;</tspan></text>
+    <g id="Rectangle_81" data-name="Rectangle 81" class="cls-6" transform="translate(56 574)">
+      <rect class="cls-14" width="147" height="41" rx="14"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="146" height="40" rx="13.5"/>
+    </g>
+    <g id="Rectangle_82" data-name="Rectangle 82" class="cls-6" transform="translate(56 624)">
+      <rect class="cls-14" width="147" height="41" rx="14"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="146" height="40" rx="13.5"/>
+    </g>
+    <rect id="Rectangle_83" data-name="Rectangle 83" class="cls-11" width="142" height="41" rx="14" transform="translate(216 574)"/>
+    <g id="Rectangle_84" data-name="Rectangle 84" class="cls-6" transform="translate(216 624)">
+      <rect class="cls-14" width="142" height="41" rx="14"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="141" height="40" rx="13.5"/>
+    </g>
+    <text id="option_1-2" data-name="option 1" class="cls-12" transform="translate(67 598)"><tspan x="0" y="0">option 1</tspan></text>
+    <text id="option_2-2" data-name="option 2" class="cls-10" transform="translate(227 597)"><tspan x="0" y="0">option 2</tspan></text>
+    <text id="option_4-2" data-name="option 4" class="cls-12" transform="translate(227 649)"><tspan x="0" y="0">option 4</tspan></text>
+    <text id="option_3-2" data-name="option 3" class="cls-12" transform="translate(67 648)"><tspan x="0" y="0">option 3</tspan></text>
+    <rect id="Rectangle_86" data-name="Rectangle 86" class="cls-5" width="321" height="241" rx="21" transform="translate(46 433)"/>
+    <text id="_Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua._Ut_enim_ad_minim_veniam_quis_nostrud_exercitation_ullamco_laboris_nisi_ut_aliquip_ex_ea_commodo_consequat._Duis_aute_irure_dolor_i-3" data-name="&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor i" class="cls-10" transform="translate(54.5 441.5)"><tspan x="0" y="13">&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed </tspan><tspan x="0" y="29">do eiusmod tempor incididunt ut labore et dolore magna </tspan><tspan x="0" y="45">aliqua. Ut enim ad minim veniam, quis nostrud exercitation </tspan><tspan x="0" y="61">ullamco laboris nisi ut aliquip ex ea commodo consequat. </tspan><tspan x="0" y="77">Duis aute irure dolor in reprehenderit in voluptate velit esse </tspan><tspan x="0" y="93">cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat </tspan><tspan x="0" y="109">cupidatat non proident, sunt in culpa qui officia deserunt </tspan><tspan x="0" y="125">mollit anim id est laborum.&quot;</tspan></text>
+    <g id="Rectangle_87" data-name="Rectangle 87" class="cls-6" transform="translate(56 574)">
+      <rect class="cls-14" width="147" height="41" rx="14"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="146" height="40" rx="13.5"/>
+    </g>
+    <g id="Rectangle_88" data-name="Rectangle 88" class="cls-6" transform="translate(56 624)">
+      <rect class="cls-14" width="147" height="41" rx="14"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="146" height="40" rx="13.5"/>
+    </g>
+    <rect id="Rectangle_89" data-name="Rectangle 89" class="cls-11" width="142" height="41" rx="14" transform="translate(216 574)"/>
+    <g id="Rectangle_90" data-name="Rectangle 90" class="cls-6" transform="translate(216 624)">
+      <rect class="cls-14" width="142" height="41" rx="14"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="141" height="40" rx="13.5"/>
+    </g>
+    <text id="option_1-3" data-name="option 1" class="cls-12" transform="translate(67 598)"><tspan x="0" y="0">option 1</tspan></text>
+    <text id="option_2-3" data-name="option 2" class="cls-10" transform="translate(227 597)"><tspan x="0" y="0">option 2</tspan></text>
+    <text id="option_4-3" data-name="option 4" class="cls-12" transform="translate(227 649)"><tspan x="0" y="0">option 4</tspan></text>
+    <text id="option_3-3" data-name="option 3" class="cls-12" transform="translate(67 648)"><tspan x="0" y="0">option 3</tspan></text>
+    <rect id="Rectangle_91" data-name="Rectangle 91" class="cls-5" width="321" height="241" rx="21" transform="translate(46 690)"/>
+    <text id="_Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua._Ut_enim_ad_minim_veniam_quis_nostrud_exercitation_ullamco_laboris_nisi_ut_aliquip_ex_ea_commodo_consequat._Duis_aute_irure_dolor_i-4" data-name="&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor i" class="cls-10" transform="translate(54.5 698.5)"><tspan x="0" y="13">&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed </tspan><tspan x="0" y="29">do eiusmod tempor incididunt ut labore et dolore magna </tspan><tspan x="0" y="45">aliqua. Ut enim ad minim veniam, quis nostrud exercitation </tspan><tspan x="0" y="61">ullamco laboris nisi ut aliquip ex ea commodo consequat. </tspan><tspan x="0" y="77">Duis aute irure dolor in reprehenderit in voluptate velit esse </tspan><tspan x="0" y="93">cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat </tspan><tspan x="0" y="109">cupidatat non proident, sunt in culpa qui officia deserunt </tspan><tspan x="0" y="125">mollit anim id est laborum.&quot;</tspan></text>
+    <g id="Rectangle_92" data-name="Rectangle 92" class="cls-6" transform="translate(56 831)">
+      <rect class="cls-14" width="147" height="41" rx="14"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="146" height="40" rx="13.5"/>
+    </g>
+    <g id="Rectangle_93" data-name="Rectangle 93" class="cls-6" transform="translate(56 881)">
+      <rect class="cls-14" width="147" height="41" rx="14"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="146" height="40" rx="13.5"/>
+    </g>
+    <rect id="Rectangle_94" data-name="Rectangle 94" class="cls-11" width="142" height="41" rx="14" transform="translate(216 831)"/>
+    <g id="Rectangle_95" data-name="Rectangle 95" class="cls-6" transform="translate(216 881)">
+      <rect class="cls-14" width="142" height="41" rx="14"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="141" height="40" rx="13.5"/>
+    </g>
+    <text id="option_1-4" data-name="option 1" class="cls-12" transform="translate(67 855)"><tspan x="0" y="0">option 1</tspan></text>
+    <text id="option_2-4" data-name="option 2" class="cls-10" transform="translate(227 854)"><tspan x="0" y="0">option 2</tspan></text>
+    <text id="option_4-4" data-name="option 4" class="cls-12" transform="translate(227 906)"><tspan x="0" y="0">option 4</tspan></text>
+    <text id="option_3-4" data-name="option 3" class="cls-12" transform="translate(67 905)"><tspan x="0" y="0">option 3</tspan></text>
+    <rect id="Rectangle_96" data-name="Rectangle 96" class="cls-5" width="321" height="241" rx="21" transform="translate(46 947)"/>
+    <text id="_Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua._Ut_enim_ad_minim_veniam_quis_nostrud_exercitation_ullamco_laboris_nisi_ut_aliquip_ex_ea_commodo_consequat._Duis_aute_irure_dolor_i-5" data-name="&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor i" class="cls-10" transform="translate(54.5 955.5)"><tspan x="0" y="13">&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed </tspan><tspan x="0" y="29">do eiusmod tempor incididunt ut labore et dolore magna </tspan><tspan x="0" y="45">aliqua. Ut enim ad minim veniam, quis nostrud exercitation </tspan><tspan x="0" y="61">ullamco laboris nisi ut aliquip ex ea commodo consequat. </tspan><tspan x="0" y="77">Duis aute irure dolor in reprehenderit in voluptate velit esse </tspan><tspan x="0" y="93">cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat </tspan><tspan x="0" y="109">cupidatat non proident, sunt in culpa qui officia deserunt </tspan><tspan x="0" y="125">mollit anim id est laborum.&quot;</tspan></text>
+    <g id="Rectangle_97" data-name="Rectangle 97" class="cls-6" transform="translate(56 1088)">
+      <rect class="cls-14" width="147" height="41" rx="14"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="146" height="40" rx="13.5"/>
+    </g>
+    <g id="Rectangle_98" data-name="Rectangle 98" class="cls-6" transform="translate(56 1138)">
+      <rect class="cls-14" width="147" height="41" rx="14"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="146" height="40" rx="13.5"/>
+    </g>
+    <rect id="Rectangle_99" data-name="Rectangle 99" class="cls-11" width="142" height="41" rx="14" transform="translate(216 1088)"/>
+    <g id="Rectangle_100" data-name="Rectangle 100" class="cls-6" transform="translate(216 1138)">
+      <rect class="cls-14" width="142" height="41" rx="14"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="141" height="40" rx="13.5"/>
+    </g>
+    <text id="option_1-5" data-name="option 1" class="cls-12" transform="translate(67 1112)"><tspan x="0" y="0">option 1</tspan></text>
+    <text id="option_2-5" data-name="option 2" class="cls-10" transform="translate(227 1111)"><tspan x="0" y="0">option 2</tspan></text>
+    <text id="option_4-5" data-name="option 4" class="cls-12" transform="translate(227 1163)"><tspan x="0" y="0">option 4</tspan></text>
+    <text id="option_3-5" data-name="option 3" class="cls-12" transform="translate(67 1162)"><tspan x="0" y="0">option 3</tspan></text>
+    <rect id="Rectangle_101" data-name="Rectangle 101" class="cls-5" width="321" height="241" rx="21" transform="translate(46 1204)"/>
+    <text id="_Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua._Ut_enim_ad_minim_veniam_quis_nostrud_exercitation_ullamco_laboris_nisi_ut_aliquip_ex_ea_commodo_consequat._Duis_aute_irure_dolor_i-6" data-name="&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor i" class="cls-10" transform="translate(54.5 1212.5)"><tspan x="0" y="13">&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed </tspan><tspan x="0" y="29">do eiusmod tempor incididunt ut labore et dolore magna </tspan><tspan x="0" y="45">aliqua. Ut enim ad minim veniam, quis nostrud exercitation </tspan><tspan x="0" y="61">ullamco laboris nisi ut aliquip ex ea commodo consequat. </tspan><tspan x="0" y="77">Duis aute irure dolor in reprehenderit in voluptate velit esse </tspan><tspan x="0" y="93">cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat </tspan><tspan x="0" y="109">cupidatat non proident, sunt in culpa qui officia deserunt </tspan><tspan x="0" y="125">mollit anim id est laborum.&quot;</tspan></text>
+    <g id="Rectangle_102" data-name="Rectangle 102" class="cls-6" transform="translate(56 1345)">
+      <rect class="cls-14" width="147" height="41" rx="14"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="146" height="40" rx="13.5"/>
+    </g>
+    <g id="Rectangle_103" data-name="Rectangle 103" class="cls-6" transform="translate(56 1395)">
+      <rect class="cls-14" width="147" height="41" rx="14"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="146" height="40" rx="13.5"/>
+    </g>
+    <rect id="Rectangle_104" data-name="Rectangle 104" class="cls-11" width="142" height="41" rx="14" transform="translate(216 1345)"/>
+    <g id="Rectangle_105" data-name="Rectangle 105" class="cls-6" transform="translate(216 1395)">
+      <rect class="cls-14" width="142" height="41" rx="14"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="141" height="40" rx="13.5"/>
+    </g>
+    <text id="option_1-6" data-name="option 1" class="cls-12" transform="translate(67 1369)"><tspan x="0" y="0">option 1</tspan></text>
+    <text id="option_2-6" data-name="option 2" class="cls-10" transform="translate(227 1368)"><tspan x="0" y="0">option 2</tspan></text>
+    <text id="option_4-6" data-name="option 4" class="cls-12" transform="translate(227 1420)"><tspan x="0" y="0">option 4</tspan></text>
+    <text id="option_3-6" data-name="option 3" class="cls-12" transform="translate(67 1419)"><tspan x="0" y="0">option 3</tspan></text>
+    <rect id="Rectangle_106" data-name="Rectangle 106" class="cls-5" width="321" height="241" rx="21" transform="translate(46 1461)"/>
+    <text id="_Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua._Ut_enim_ad_minim_veniam_quis_nostrud_exercitation_ullamco_laboris_nisi_ut_aliquip_ex_ea_commodo_consequat._Duis_aute_irure_dolor_i-7" data-name="&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor i" class="cls-10" transform="translate(54.5 1469.5)"><tspan x="0" y="13">&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed </tspan><tspan x="0" y="29">do eiusmod tempor incididunt ut labore et dolore magna </tspan><tspan x="0" y="45">aliqua. Ut enim ad minim veniam, quis nostrud exercitation </tspan><tspan x="0" y="61">ullamco laboris nisi ut aliquip ex ea commodo consequat. </tspan><tspan x="0" y="77">Duis aute irure dolor in reprehenderit in voluptate velit esse </tspan><tspan x="0" y="93">cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat </tspan><tspan x="0" y="109">cupidatat non proident, sunt in culpa qui officia deserunt </tspan><tspan x="0" y="125">mollit anim id est laborum.&quot;</tspan></text>
+    <g id="Rectangle_107" data-name="Rectangle 107" class="cls-6" transform="translate(56 1602)">
+      <rect class="cls-14" width="147" height="41" rx="14"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="146" height="40" rx="13.5"/>
+    </g>
+    <g id="Rectangle_108" data-name="Rectangle 108" class="cls-6" transform="translate(56 1652)">
+      <rect class="cls-14" width="147" height="41" rx="14"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="146" height="40" rx="13.5"/>
+    </g>
+    <rect id="Rectangle_109" data-name="Rectangle 109" class="cls-11" width="142" height="41" rx="14" transform="translate(216 1602)"/>
+    <g id="Rectangle_110" data-name="Rectangle 110" class="cls-6" transform="translate(216 1652)">
+      <rect class="cls-14" width="142" height="41" rx="14"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="141" height="40" rx="13.5"/>
+    </g>
+    <text id="option_1-7" data-name="option 1" class="cls-12" transform="translate(67 1626)"><tspan x="0" y="0">option 1</tspan></text>
+    <text id="option_2-7" data-name="option 2" class="cls-10" transform="translate(227 1625)"><tspan x="0" y="0">option 2</tspan></text>
+    <text id="option_4-7" data-name="option 4" class="cls-12" transform="translate(227 1677)"><tspan x="0" y="0">option 4</tspan></text>
+    <text id="option_3-7" data-name="option 3" class="cls-12" transform="translate(67 1676)"><tspan x="0" y="0">option 3</tspan></text>
+    <text id="Total_:_100" data-name="Total : 100" class="cls-13" transform="translate(46 162)"><tspan x="0" y="0">Total : 100</tspan></text>
+    <text id="_60:00" data-name="60:00" class="cls-13" transform="translate(339 162)"><tspan x="0" y="0">60:00</tspan></text>
+  </g>
+</svg>

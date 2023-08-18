@@ -1,0 +1,73 @@
+/* google fonts */
+
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;600;700&family=Poppins:wght@200;300;600;700&display=swap");
+
+/* css variables */
+:root {
+  --primary-color: #7c5dfa;
+  --secondary-color: #1e2139;
+  --body-bg: #141625;
+  --paid-status-color: #32cf9b;
+  --paid-status-bg: #1f2c3f;
+  --pending-status-color: #ff8f00;
+  --pending-status-bg: rgba(255, 143, 0, 0.06);
+  --small-text-color: #888eb0;
+  --draft-bg: #252945;
+}
+/* base styling */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background: var(--body-bg);
+}
+p {
+  font-size: 0.9rem;
+  color: var(--small-text-color);
+}
+a {
+  text-decoration: none;
+  color: unset;
+}
+.btn {
+  padding: 7px 25px;
+  background: var(--primary-color);
+  color: #fff;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+/* sidebar */
+
+.sidebar {
+  width: 120px;
+  height: 100vh;
+  background: var(--secondary-color) !important;
+  color: #fff;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+}
+.sidebar__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+  height: 100%;
+}
+.sidebar__header,
+.sidebar__bottom {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px 0px 20px 0px;
+  background: var(--secondary-color);
+  border: 1px solid var(--primary-color);
+}

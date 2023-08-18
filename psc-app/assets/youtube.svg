@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="892" viewBox="0 0 412 892">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-youtube);
+      }
+
+      .cls-2, .cls-8 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #707070;
+      }
+
+      .cls-3, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #aad3d9;
+      }
+
+      .cls-5 {
+        stroke: #000;
+        font-size: 17px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-7 {
+        stroke: none;
+      }
+
+      .cls-9 {
+        fill: #e7f3f5;
+      }
+    </style>
+    <clipPath id="clip-youtube">
+      <rect width="412" height="892"/>
+    </clipPath>
+  </defs>
+  <g id="youtube" class="cls-1">
+    <rect class="cls-9" width="412" height="892"/>
+    <line id="Line_1" data-name="Line 1" class="cls-2" x2="597" transform="translate(-96.5 22.5)"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" class="cls-3" transform="translate(-96 23)">
+      <rect class="cls-7" width="587" height="56"/>
+      <rect class="cls-8" x="0.5" y="0.5" width="586" height="55"/>
+    </g>
+    <g id="Rectangle_2" data-name="Rectangle 2" class="cls-3" transform="translate(-21 79)">
+      <rect class="cls-7" width="454" height="8"/>
+      <rect class="cls-8" x="0.5" y="0.5" width="453" height="7"/>
+    </g>
+    <line id="Line_2" data-name="Line 2" class="cls-2" y2="912" transform="translate(37)"/>
+    <line id="Line_3" data-name="Line 3" class="cls-2" y2="912" transform="translate(374)"/>
+    <g id="Rectangle_3" data-name="Rectangle 3" class="cls-3" transform="translate(-78 858)">
+      <rect class="cls-7" width="615" height="34"/>
+      <rect class="cls-8" x="0.5" y="0.5" width="614" height="33"/>
+    </g>
+    <g id="Rectangle_6" data-name="Rectangle 6" class="cls-3" transform="translate(-36 162)">
+      <rect class="cls-7" width="477" height="16"/>
+      <rect class="cls-8" x="0.5" y="0.5" width="476" height="15"/>
+    </g>
+    <g id="Rectangle_7" data-name="Rectangle 7" class="cls-3" transform="translate(-28 323)">
+      <rect class="cls-7" width="477" height="16"/>
+      <rect class="cls-8" x="0.5" y="0.5" width="476" height="15"/>
+    </g>
+    <g id="Rectangle_9" data-name="Rectangle 9" class="cls-3" transform="translate(37 -27)">
+      <rect class="cls-7" width="8" height="969"/>
+      <rect class="cls-8" x="0.5" y="0.5" width="7" height="968"/>
+    </g>
+    <g id="Rectangle_10" data-name="Rectangle 10" class="cls-3" transform="translate(366 -121)">
+      <rect class="cls-7" width="8" height="969"/>
+      <rect class="cls-8" x="0.5" y="0.5" width="7" height="968"/>
+    </g>
+    <g id="Rectangle_14" data-name="Rectangle 14" class="cls-3" transform="translate(-5 484)">
+      <rect class="cls-7" width="477" height="16"/>
+      <rect class="cls-8" x="0.5" y="0.5" width="476" height="15"/>
+    </g>
+    <g id="Rectangle_15" data-name="Rectangle 15" class="cls-3" transform="translate(-5 593)">
+      <rect class="cls-7" width="477" height="16"/>
+      <rect class="cls-8" x="0.5" y="0.5" width="476" height="15"/>
+    </g>
+    <g id="Rectangle_21" data-name="Rectangle 21" class="cls-3" transform="translate(0 734)">
+      <rect class="cls-7" width="477" height="16"/>
+      <rect class="cls-8" x="0.5" y="0.5" width="476" height="15"/>
+    </g>
+    <rect id="Rectangle_22" data-name="Rectangle 22" class="cls-4" width="412" height="51" rx="18" transform="translate(0 807)"/>
+    <g id="Icon_ionic-ios-home" data-name="Icon ionic-ios-home" transform="translate(64.626 814.5)">
+      <path id="Path_1" data-name="Path 1" d="M18.176,7.32a.276.276,0,0,0-.352,0L6.855,16.095a.3.3,0,0,0-.105.218V32.484a.141.141,0,0,0,.141.141h7.594a.141.141,0,0,0,.141-.141V22.641a.141.141,0,0,1,.141-.141h6.469a.141.141,0,0,1,.141.141v9.844a.141.141,0,0,0,.141.141h7.594a.141.141,0,0,0,.141-.141V16.313a.284.284,0,0,0-.105-.218Z"/>
+      <path id="Path_2" data-name="Path 2" d="M32.252,14.358,18.963,3.713a1.543,1.543,0,0,0-1.927,0l-5.787,4.7V5.449a.141.141,0,0,0-.141-.141H6.891a.141.141,0,0,0-.141.141v6.483l-3,2.468a.984.984,0,0,0-.084,1.47.978.978,0,0,0,.7.288.991.991,0,0,0,.619-.218L17.909,5.534A.126.126,0,0,1,18,5.505a.17.17,0,0,1,.091.028L31.022,15.9a.991.991,0,0,0,.619.218,1,1,0,0,0,.991-1.041A1,1,0,0,0,32.252,14.358Z"/>
+    </g>
+    <path id="Icon_open-badge" data-name="Icon open-badge" d="M9,0a9,9,0,1,0,9,9A9.026,9.026,0,0,0,9,0ZM4.5,21.645V36L9,31.5,13.5,36V21.645A13.547,13.547,0,0,1,9,22.5,13.547,13.547,0,0,1,4.5,21.645Z" transform="translate(156 815)"/>
+    <path id="Icon_awesome-user-alt" data-name="Icon awesome-user-alt" d="M18,20.25A10.125,10.125,0,1,0,7.875,10.125,10.128,10.128,0,0,0,18,20.25Zm9,2.25H23.126a12.24,12.24,0,0,1-10.252,0H9a9,9,0,0,0-9,9v1.125A3.376,3.376,0,0,0,3.375,36h29.25A3.376,3.376,0,0,0,36,32.625V31.5A9,9,0,0,0,27,22.5Z" transform="translate(307 815)"/>
+    <path id="Icon_awesome-youtube" data-name="Icon awesome-youtube" d="M38.648,8.725a4.825,4.825,0,0,0-3.395-3.417c-2.995-.808-15-.808-15-.808s-12.008,0-15,.808A4.825,4.825,0,0,0,1.852,8.725c-.8,3.014-.8,9.3-.8,9.3s0,6.289.8,9.3a4.753,4.753,0,0,0,3.395,3.362c2.995.808,15,.808,15,.808s12.008,0,15-.808a4.753,4.753,0,0,0,3.395-3.362c.8-3.014.8-9.3.8-9.3s0-6.289-.8-9.3ZM16.323,23.737V12.318l10.036,5.71L16.323,23.737Z" transform="translate(224.875 814.375)"/>
+    <g id="Rectangle_24" data-name="Rectangle 24" class="cls-3" transform="translate(14 700)">
+      <rect class="cls-7" width="384" height="101"/>
+      <rect class="cls-8" x="0.5" y="0.5" width="383" height="100"/>
+    </g>
+    <text id="ad" class="cls-5" transform="translate(90 751)"><tspan x="0" y="0">ad</tspan></text>
+    <rect id="Rectangle_22-2" data-name="Rectangle 22" width="412" height="51" rx="18" transform="translate(0 807)"/>
+    <g id="Icon_ionic-ios-home-2" data-name="Icon ionic-ios-home" transform="translate(64.626 814.5)">
+      <path id="Path_1-2" data-name="Path 1" class="cls-6" d="M18.176,7.32a.276.276,0,0,0-.352,0L6.855,16.095a.3.3,0,0,0-.105.218V32.484a.141.141,0,0,0,.141.141h7.594a.141.141,0,0,0,.141-.141V22.641a.141.141,0,0,1,.141-.141h6.469a.141.141,0,0,1,.141.141v9.844a.141.141,0,0,0,.141.141h7.594a.141.141,0,0,0,.141-.141V16.313a.284.284,0,0,0-.105-.218Z"/>
+      <path id="Path_2-2" data-name="Path 2" class="cls-6" d="M32.252,14.358,18.963,3.713a1.543,1.543,0,0,0-1.927,0l-5.787,4.7V5.449a.141.141,0,0,0-.141-.141H6.891a.141.141,0,0,0-.141.141v6.483l-3,2.468a.984.984,0,0,0-.084,1.47.978.978,0,0,0,.7.288.991.991,0,0,0,.619-.218L17.909,5.534A.126.126,0,0,1,18,5.505a.17.17,0,0,1,.091.028L31.022,15.9a.991.991,0,0,0,.619.218,1,1,0,0,0,.991-1.041A1,1,0,0,0,32.252,14.358Z"/>
+    </g>
+    <path id="Icon_open-badge-2" data-name="Icon open-badge" class="cls-6" d="M9,0a9,9,0,1,0,9,9A9.026,9.026,0,0,0,9,0ZM4.5,21.645V36L9,31.5,13.5,36V21.645A13.547,13.547,0,0,1,9,22.5,13.547,13.547,0,0,1,4.5,21.645Z" transform="translate(156 815)"/>
+    <path id="Icon_awesome-user-alt-2" data-name="Icon awesome-user-alt" class="cls-6" d="M18,20.25A10.125,10.125,0,1,0,7.875,10.125,10.128,10.128,0,0,0,18,20.25Zm9,2.25H23.126a12.24,12.24,0,0,1-10.252,0H9a9,9,0,0,0-9,9v1.125A3.376,3.376,0,0,0,3.375,36h29.25A3.376,3.376,0,0,0,36,32.625V31.5A9,9,0,0,0,27,22.5Z" transform="translate(307 815)"/>
+    <path id="Icon_awesome-youtube-2" data-name="Icon awesome-youtube" class="cls-6" d="M38.648,8.725a4.825,4.825,0,0,0-3.395-3.417c-2.995-.808-15-.808-15-.808s-12.008,0-15,.808A4.825,4.825,0,0,0,1.852,8.725c-.8,3.014-.8,9.3-.8,9.3s0,6.289.8,9.3a4.753,4.753,0,0,0,3.395,3.362c2.995.808,15,.808,15,.808s12.008,0,15-.808a4.753,4.753,0,0,0,3.395-3.362c.8-3.014.8-9.3.8-9.3s0-6.289-.8-9.3ZM16.323,23.737V12.318l10.036,5.71L16.323,23.737Z" transform="translate(224.875 814.375)"/>
+  </g>
+</svg>

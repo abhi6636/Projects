@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="892" viewBox="0 0 412 892">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-tips_and_tricks);
+      }
+
+      .cls-12, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-4 {
+        stroke: #707070;
+      }
+
+      .cls-3 {
+        fill: #aad3d9;
+      }
+
+      .cls-4, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-5, .cls-7, .cls-8 {
+        stroke: #000;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        font-size: 17px;
+      }
+
+      .cls-7, .cls-8 {
+        font-size: 38px;
+      }
+
+      .cls-13, .cls-8 {
+        fill: #d6d6d6;
+      }
+
+      .cls-9 {
+        fill: #c4c4c4;
+      }
+
+      .cls-10 {
+        font-size: 12px;
+        font-family: SegoeUI-Light, Segoe UI;
+        font-weight: 300;
+      }
+
+      .cls-11 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-tips_and_tricks">
+      <rect width="412" height="892"/>
+    </clipPath>
+  </defs>
+  <g id="tips_and_tricks" data-name="tips and tricks" class="cls-1">
+    <rect class="cls-13" width="412" height="892"/>
+    <line id="Line_1" data-name="Line 1" class="cls-2" x2="597" transform="translate(-96.5 22.5)"/>
+    <rect id="Rectangle_22" data-name="Rectangle 22" class="cls-3" width="412" height="51" rx="18" transform="translate(0 807)"/>
+    <g id="Icon_ionic-ios-home" data-name="Icon ionic-ios-home" transform="translate(64.626 814.5)">
+      <path id="Path_1" data-name="Path 1" d="M18.176,7.32a.276.276,0,0,0-.352,0L6.855,16.095a.3.3,0,0,0-.105.218V32.484a.141.141,0,0,0,.141.141h7.594a.141.141,0,0,0,.141-.141V22.641a.141.141,0,0,1,.141-.141h6.469a.141.141,0,0,1,.141.141v9.844a.141.141,0,0,0,.141.141h7.594a.141.141,0,0,0,.141-.141V16.313a.284.284,0,0,0-.105-.218Z"/>
+      <path id="Path_2" data-name="Path 2" d="M32.252,14.358,18.963,3.713a1.543,1.543,0,0,0-1.927,0l-5.787,4.7V5.449a.141.141,0,0,0-.141-.141H6.891a.141.141,0,0,0-.141.141v6.483l-3,2.468a.984.984,0,0,0-.084,1.47.978.978,0,0,0,.7.288.991.991,0,0,0,.619-.218L17.909,5.534A.126.126,0,0,1,18,5.505a.17.17,0,0,1,.091.028L31.022,15.9a.991.991,0,0,0,.619.218,1,1,0,0,0,.991-1.041A1,1,0,0,0,32.252,14.358Z"/>
+    </g>
+    <path id="Icon_open-badge" data-name="Icon open-badge" d="M9,0a9,9,0,1,0,9,9A9.026,9.026,0,0,0,9,0ZM4.5,21.645V36L9,31.5,13.5,36V21.645A13.547,13.547,0,0,1,9,22.5,13.547,13.547,0,0,1,4.5,21.645Z" transform="translate(156 815)"/>
+    <path id="Icon_awesome-user-alt" data-name="Icon awesome-user-alt" d="M18,20.25A10.125,10.125,0,1,0,7.875,10.125,10.128,10.128,0,0,0,18,20.25Zm9,2.25H23.126a12.24,12.24,0,0,1-10.252,0H9a9,9,0,0,0-9,9v1.125A3.376,3.376,0,0,0,3.375,36h29.25A3.376,3.376,0,0,0,36,32.625V31.5A9,9,0,0,0,27,22.5Z" transform="translate(307 815)"/>
+    <path id="Icon_awesome-youtube" data-name="Icon awesome-youtube" d="M38.648,8.725a4.825,4.825,0,0,0-3.395-3.417c-2.995-.808-15-.808-15-.808s-12.008,0-15,.808A4.825,4.825,0,0,0,1.852,8.725c-.8,3.014-.8,9.3-.8,9.3s0,6.289.8,9.3a4.753,4.753,0,0,0,3.395,3.362c2.995.808,15,.808,15,.808s12.008,0,15-.808a4.753,4.753,0,0,0,3.395-3.362c.8-3.014.8-9.3.8-9.3s0-6.289-.8-9.3ZM16.323,23.737V12.318l10.036,5.71L16.323,23.737Z" transform="translate(224.875 814.375)"/>
+    <g id="Rectangle_24" data-name="Rectangle 24" class="cls-4" transform="translate(14 700)">
+      <rect class="cls-11" width="384" height="101"/>
+      <rect class="cls-12" x="0.5" y="0.5" width="383" height="100"/>
+    </g>
+    <text id="ad" class="cls-5" transform="translate(90 751)"><tspan x="0" y="0">ad</tspan></text>
+    <rect id="Rectangle_22-2" data-name="Rectangle 22" width="412" height="51" rx="18" transform="translate(0 807)"/>
+    <g id="Icon_ionic-ios-home-2" data-name="Icon ionic-ios-home" transform="translate(64.626 814.5)">
+      <path id="Path_1-2" data-name="Path 1" class="cls-6" d="M18.176,7.32a.276.276,0,0,0-.352,0L6.855,16.095a.3.3,0,0,0-.105.218V32.484a.141.141,0,0,0,.141.141h7.594a.141.141,0,0,0,.141-.141V22.641a.141.141,0,0,1,.141-.141h6.469a.141.141,0,0,1,.141.141v9.844a.141.141,0,0,0,.141.141h7.594a.141.141,0,0,0,.141-.141V16.313a.284.284,0,0,0-.105-.218Z"/>
+      <path id="Path_2-2" data-name="Path 2" class="cls-6" d="M32.252,14.358,18.963,3.713a1.543,1.543,0,0,0-1.927,0l-5.787,4.7V5.449a.141.141,0,0,0-.141-.141H6.891a.141.141,0,0,0-.141.141v6.483l-3,2.468a.984.984,0,0,0-.084,1.47.978.978,0,0,0,.7.288.991.991,0,0,0,.619-.218L17.909,5.534A.126.126,0,0,1,18,5.505a.17.17,0,0,1,.091.028L31.022,15.9a.991.991,0,0,0,.619.218,1,1,0,0,0,.991-1.041A1,1,0,0,0,32.252,14.358Z"/>
+    </g>
+    <path id="Icon_open-badge-2" data-name="Icon open-badge" class="cls-6" d="M9,0a9,9,0,1,0,9,9A9.026,9.026,0,0,0,9,0ZM4.5,21.645V36L9,31.5,13.5,36V21.645A13.547,13.547,0,0,1,9,22.5,13.547,13.547,0,0,1,4.5,21.645Z" transform="translate(156 815)"/>
+    <path id="Icon_awesome-user-alt-2" data-name="Icon awesome-user-alt" class="cls-6" d="M18,20.25A10.125,10.125,0,1,0,7.875,10.125,10.128,10.128,0,0,0,18,20.25Zm9,2.25H23.126a12.24,12.24,0,0,1-10.252,0H9a9,9,0,0,0-9,9v1.125A3.376,3.376,0,0,0,3.375,36h29.25A3.376,3.376,0,0,0,36,32.625V31.5A9,9,0,0,0,27,22.5Z" transform="translate(307 815)"/>
+    <path id="Icon_awesome-youtube-2" data-name="Icon awesome-youtube" class="cls-6" d="M38.648,8.725a4.825,4.825,0,0,0-3.395-3.417c-2.995-.808-15-.808-15-.808s-12.008,0-15,.808A4.825,4.825,0,0,0,1.852,8.725c-.8,3.014-.8,9.3-.8,9.3s0,6.289.8,9.3a4.753,4.753,0,0,0,3.395,3.362c2.995.808,15,.808,15,.808s12.008,0,15-.808a4.753,4.753,0,0,0,3.395-3.362c.8-3.014.8-9.3.8-9.3s0-6.289-.8-9.3ZM16.323,23.737V12.318l10.036,5.71L16.323,23.737Z" transform="translate(224.875 814.375)"/>
+    <text id="TIPS" class="cls-7" transform="translate(45 71)"><tspan x="0" y="0">TIPS</tspan></text>
+    <text id="TRICKS" class="cls-8" transform="translate(141 109)"><tspan x="0" y="0">TRICKS</tspan></text>
+    <path id="Path_4" data-name="Path 4" class="cls-2" d="M54,2V70" transform="translate(78 41)"/>
+    <text id="_" data-name="&amp;" class="cls-7" transform="translate(138 71)"><tspan x="0" y="0">&amp;</tspan></text>
+    <rect id="Rectangle_62" data-name="Rectangle 62" class="cls-9" width="321" height="572" rx="16" transform="translate(45 128)"/>
+    <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit._Vivamus_at_euismod_dui._Mauris_imperdiet_erat_massa_eu_congue_libero_placerat_ac._Nullam_ut_urna_a_purus_ultricies_laoreet_sed_non_nisl._Aliquam_accumsan_commodo_eleifend._Sed_scelerisque_ferment" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Vivamus at euismod dui. Mauris imperdiet erat massa, eu 
+congue libero placerat ac. Nullam ut urna a purus ultricies laoreet sed non nisl. 
+Aliquam accumsan commodo eleifend. Sed scelerisque ferment" class="cls-10" transform="translate(54.5 150.5)"><tspan x="0" y="13">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </tspan><tspan x="0" y="29">Vivamus at euismod dui. Mauris imperdiet erat massa, eu </tspan><tspan x="0" y="45">congue libero placerat ac. Nullam ut urna a purus ultricies </tspan><tspan x="0" y="61">laoreet sed non nisl. </tspan><tspan x="0" y="77">Aliquam accumsan commodo eleifend. Sed scelerisque </tspan><tspan x="0" y="93">fermentum sapien, </tspan><tspan x="0" y="109">a tristique tellus. Aliquam vel ligula et lacus dignissim </tspan><tspan x="0" y="125">rhoncus.</tspan><tspan x="0" y="141" xml:space="preserve"> In posuere nisl eget tempus bibendum. Donec sit amet </tspan><tspan x="0" y="157">molestie </tspan><tspan x="0" y="173">ex. Praesent euismod nec dui quis sollicitudin. Mauris ac </tspan><tspan x="0" y="189">augue</tspan><tspan x="0" y="205" xml:space="preserve"> sit amet lectus fermentum malesuada. Nulla vulputate felis </tspan><tspan x="0" y="221">at diam </tspan><tspan x="0" y="237">dapibus cursus. Ut dictum lorem est. Integer at dui efficitur </tspan><tspan x="0" y="253">lectu</tspan><tspan x="0" y="269">s sollicitudin consequat at quis tortor. Pellentesque ultrices </tspan><tspan x="0" y="285">ac </tspan><tspan x="0" y="301">magna et consectetur.</tspan><tspan x="0" y="317">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </tspan><tspan x="0" y="333">Vivamus at euismod dui. Mauris imperdiet erat massa, eu </tspan><tspan x="0" y="349">congue libero placerat ac. Nullam ut urna a purus ultricies </tspan><tspan x="0" y="365">laoreet sed non nisl. </tspan><tspan x="0" y="381">Aliquam accumsan commodo eleifend. Sed scelerisque </tspan><tspan x="0" y="397">fermentum sapien, </tspan><tspan x="0" y="413">a tristique tellus. Aliquam vel ligula et lacus dignissim </tspan><tspan x="0" y="429">rhoncus.</tspan><tspan x="0" y="445" xml:space="preserve"> In posuere nisl eget tempus bibendum. Donec sit amet </tspan><tspan x="0" y="461">molestie </tspan><tspan x="0" y="477">ex. Praesent euismod nec dui quis sollicitudin. Mauris ac </tspan><tspan x="0" y="493">augue</tspan><tspan x="0" y="509" xml:space="preserve"> sit amet lectus fermentum malesuada. Nulla vulputate felis </tspan><tspan x="0" y="525">at diam </tspan><tspan x="0" y="541">dapibus cursus. Ut dictum lorem est. Integer at dui</tspan></text>
+  </g>
+</svg>
